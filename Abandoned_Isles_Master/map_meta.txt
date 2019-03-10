@@ -43,5 +43,5 @@ water_level = 1
 mapgen_limit = 31000
 mg_name = singlenode
 chunksize = 5
-mg_flags = caves, dungeons, light, decorations
+mg_flags = caves, dungeons, light, decorations, biomes
 [end_of_params]
