@@ -1,16 +1,16 @@
 extended_attributes = {"sethome:home":"(64.680999755859,25.829000473022,107.11000061035)"}
 breath = 11
 name = singleplayer
-position = (1158,-5,2022.92)
+position = (1797.35,15,1952.92)
 version = 1
 hp = 20
-pitch = 3.9
-yaw = 258.58
+pitch = 30.1
+yaw = 96.16
 PlayerArgsEnd
 List main 32
 Width 0
+Item ctf_map:flag 2
 Item ctf_map:adminpick
-Empty
 Empty
 Empty
 Empty
